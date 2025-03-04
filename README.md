@@ -59,7 +59,7 @@ A simple and interactive to-do list web application that allows users to add, ma
 ## 🌐 Live Preview
 
 ```md
-🔗 [Click here to view the live demo](https://nagendrasriram.github.io/Simple-to-do-List/)
+[Click here to view the live demo](https://nagendrasriram.github.io/Simple-to-do-List/)
 ```
 
 ---
