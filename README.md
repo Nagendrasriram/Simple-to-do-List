@@ -1,61 +1,94 @@
-📌 To-Do List Web App
+# 📌 To-Do List Web App
 
-A simple and interactive to-do list web application that allows users to add, mark as complete, and remove tasks. Built with HTML, CSS, and JavaScript, this app provides a minimalistic interface to keep track of daily tasks efficiently.
+```md
+A simple and interactive to-do list web application that allows users to add, mark as complete, and remove tasks. Built with **HTML, CSS, and JavaScript**, this app provides a minimalistic interface to keep track of daily tasks efficiently.
+```
 
-🚀 Features
+---
 
-✅ Add new tasks dynamically✅ Mark tasks as completed by clicking on them✅ Delete tasks with a single click✅ Press 'Enter' key to add a task quickly✅ Responsive design for seamless experience on any device
+## 🚀 Features
 
-📂 Project Structure
+```md
+✅ Add new tasks dynamically  
+✅ Mark tasks as completed by clicking on them  
+✅ Delete tasks with a single click  
+✅ Press 'Enter' key to add a task quickly  
+✅ Responsive design for seamless experience on any device  
+```
 
+---
+
+## 📂 Project Structure
+
+```sh
 📦 To-Do List
 ├── 📜 index.html        # Main HTML file
 ├── 🎨 style.css         # Styling for the app
 ├── ⚙️ script.js        # JavaScript functionality
 ├── 📜 README.md        # Documentation
+```
 
-🛠️ Technologies Used
+---
 
-HTML – Structure of the web app
+## 🛠️ Technologies Used
 
-CSS – Styling and layout
+```md
+- **HTML** – Structure of the web app
+- **CSS** – Styling and layout
+- **JavaScript** – Logic for task management
+```
 
-JavaScript – Logic for task management
+---
 
-🏗️ How to Use
+## 🏗️ How to Use
 
-Clone the repository:
+```sh
+1. Clone the repository:
+   git clone https://github.com/your-username/todo-list.git
 
-git clone https://github.com/your-username/todo-list.git
+2. Navigate to the project folder:
+   cd todo-list
 
-Navigate to the project folder:
+3. Open `index.html` in your browser.
 
-cd todo-list
+4. Start adding tasks!
+```
 
-Open index.html in your browser.
+---
 
-Start adding tasks!
+## 🌐 Live Preview
 
-🎨 Screenshots
+```md
+🔗 [Click here to view the live demo](https://nagendrasriram.github.io/Simple-to-do-List/)
+```
 
-🔹 Coming soon!
+---
 
-🔧 Future Enhancements
 
-Add local storage support to save tasks
+## 🔧 Future Enhancements
 
-Implement categories and due dates
+```md
+- Add local storage support to save tasks
+- Implement categories and due dates
+- Add a dark mode theme
+```
 
-Add a dark mode theme
+---
 
-📝 License
+## 📝 License
 
-This project is open-source and available under the MIT License.
+```md
+This project is open-source and available under the **MIT License**.
+```
 
-🤝 Contributing
+---
 
+## 🤝 Contributing
+
+```md
 Contributions are welcome! Feel free to submit a pull request or report issues.
 
-📩 Contact: If you have any questions, reach out via GitHub issues!
+📩 **Contact:** If you have any questions, reach out via GitHub issues!
 
-💻 Happy Coding! 🎉
+💻 **Happy Coding!** 🎉
+```
